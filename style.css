@@ -306,6 +306,7 @@ main {
 .testimonals-heading {
   width: 80%;
   margin: 0 auto;
+  color: white;
 }
 .testimonials {
   display: flex;
@@ -594,6 +595,7 @@ main {
   .testimonals-heading {
     width: 100%;
     margin: 0;
+    color: white;
   }
   .testimonials {
     display: flex;
