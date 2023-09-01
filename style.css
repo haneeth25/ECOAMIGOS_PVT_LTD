@@ -534,6 +534,7 @@ main {
     padding: 2px;
     display: flex;
     flex-direction: column;
+    
   }
   .title1 {
     color: white;
@@ -833,6 +834,7 @@ main {
     padding: 2px;
     display: flex;
     flex-direction: column;
+    color: white;
   }
   .title1 {
     color: white;
@@ -892,6 +894,7 @@ main {
   .testimonals-heading {
     width: 100%;
     margin: 0;
+    color: white;
   }
   .testimonials {
     display: flex;
