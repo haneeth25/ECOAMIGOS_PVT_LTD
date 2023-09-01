@@ -534,7 +534,7 @@ main {
     padding: 2px;
     display: flex;
     flex-direction: column;
-    
+
   }
   .title1 {
     color: white;
@@ -549,7 +549,7 @@ main {
     color: white;
     border-radius: 0.5rem;
     font-size: 15px;
-    word-spacing: 3px;
+    word-spacing: 2px;
     line-height: 1.5rem;
     margin-left: 0px;
     transition: 1s;
@@ -849,7 +849,7 @@ main {
     color: white;
     border-radius: 0.5rem;
     font-size: 13px;
-    word-spacing: 3px;
+    word-spacing: 2px;
     line-height: 1.5rem;
     margin-left: 0px;
     transition: 1s;
