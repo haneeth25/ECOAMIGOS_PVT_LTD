@@ -833,7 +833,7 @@ main {
     flex-direction: column;
   }
   .title1 {
-    color: black;
+    color: white;
     font-size: 25px;
     font-weight: 500;
     display: flex;
